@@ -1,4 +1,4 @@
-# Howdy! 👋 I'm [Your Name], the Code Jester! 🃏
+# Howdy! 👋 I'm Satyam Priyam, the Code Jester! 🃏
 
 Welcome to my digital circus, where bugs are just part of the show!
 
