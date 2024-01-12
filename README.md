@@ -5,7 +5,7 @@ Welcome to my digital circus, where bugs are just part of the show!
 ## 🚀 About Me
 
 - 🔥 Master of the ancient art of Debug-fu.
-- 🤹‍♂️ Juggling between code and coffee since [Year of your Coding Birth].
+- 🤹‍♂️ Juggling between code and coffee since 2001.
 - 🚧 Building castles made of code and watching them collapse in style!
 
 ## 💻 Technologies & Tools
