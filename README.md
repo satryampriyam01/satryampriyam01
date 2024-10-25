@@ -1,13 +1,15 @@
-# 👋 Hello! I'm Satyam
+# 👋 Hey there, I'm Satyam
 
-I'm a passionate software engineer with a focus on **backend development**, **DevOps**, and **image processing**. Currently, I'm a graduate student in Computer Science at Northeastern University, exploring new tech every day!
+🔍 Exploring the world of **Fintech, Consulting,** and **Banking** as a passionate software engineer and a graduate student in **Computer Science** at **Northeastern University**. I’m always learning and building new things—focused on backend development, DevOps, and image processing.
 
 ---
 
 ## 🔥 GitHub Activity Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=satyampriyam)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=satyampriyam&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-## 🧑‍💻 Skills & Tools
+## 🧑‍💻 My Technical Toolbox
+I work with an array of tools and languages, adding to my skillset every day:
+
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
@@ -18,26 +20,43 @@ I'm a passionate software engineer with a focus on **backend development**, **De
 
 ---
 
-## 📈 Language Usage (Last 30 Days)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyampriyam&layout=compact&theme=radical)
+## 🚀 Featured Repositories
+Here are a few of my top repositories showcasing my experience across projects:
+
+1. **[Snap Project](https://github.com/username/snap)** - MVC-based project on **image processing** with transformations and filters.
+2. **[Atom to Byte](https://github.com/username/atom-to-byte)** - Social initiative converting physical resources into digital formats for village children.
+3. **[Auto-Hotel Merger](https://github.com/username/auto-hotel-merger)** - Algorithmic project for hotel data matching using **Redis** and **Kafka**.
+
+**Languages Used Across Repos**:  
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyampriyam&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🌱 What I'm Currently Working On
-- [Snap Project](link-to-project-repo): An MVC-based project applying image processing techniques.
-- **Exploring**: React, state management, and advanced Java programming patterns.
+## 📊 Dynamic GitHub Stats
+[![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyampriyam&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🤖 GitHub Action to Showcase Daily Activity
-Here's a sample GitHub Action workflow you could use to update the README daily with your latest commits and coding streak:
+## ⏰ Weekly Coding Stats
+<!-- This section will auto-update to show hours spent on various programming languages over the past week. -->
+<!-- WakaTime Setup Required -->
+<!--
+[![Satyam's Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=satyampriyam&theme=radical&hide_border=true)](https://wakatime.com/@username)
+-->
+
+---
+
+## 🤖 GitHub Action for Dynamic Updates
+Want to keep this README up-to-date automatically? Use the following GitHub Actions workflow to fetch repositories and language usage data daily:
 
 ```yaml
-name: Update README with Activity
+name: Update README with Repository Info
 
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -46,7 +65,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Update README
+      - name: Fetch Repository Data
         run: |
-          echo "Updating README with recent activity..."
-          # Here you could add logic to update the README with any custom script
+          echo "Fetching repositories and language stats..."
+          # Insert script here to pull repository details, languages, etc.
+          
+      - name: Commit Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README with new repo data"
+          git push
