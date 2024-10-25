@@ -25,4 +25,8 @@ Welcome to my digital circus, where bugs are just part of the show!
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - 📷 Instagram: [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle)
 
+ name: GitHub-Profile-Summary-Cards
+uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
+            
 Feel free to join the circus! 🎪 Remember, the code laughs at your plans! 😜
+
