@@ -23,9 +23,9 @@ I work with an array of tools and languages, adding to my skillset every day:
 ## 🚀 Featured Repositories
 Here are a few of my top repositories showcasing my experience across projects:
 
-1. **[Snap Project](https://github.com/username/snap)** - MVC-based project on **image processing** with transformations and filters.
-2. **[Atom to Byte](https://github.com/username/atom-to-byte)** - Social initiative converting physical resources into digital formats for village children.
-3. **[Auto-Hotel Merger](https://github.com/username/auto-hotel-merger)** - Algorithmic project for hotel data matching using **Redis** and **Kafka**.
+1. **[Snap Project](https://github.com/satryampriyam01/snap)** - MVC-based project on **image processing** with transformations and filters.
+2. **[Atom to Byte](https://github.com/satryampriyam01/atom-to-byte)** - Social initiative converting physical resources into digital formats for village children.
+3. **[Auto-Hotel Merger](https://github.com/satryampriyam01/auto-hotel-merger)** - Algorithmic project for hotel data matching using **Redis** and **Kafka**.
 
 **Languages Used Across Repos**:  
 
