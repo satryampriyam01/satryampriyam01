@@ -5,7 +5,7 @@
 I am currently a graduate student pursuing a Master of Science (MS) in  **Computer Science** with a specialization in Artificial Intelligence at **Northeastern University** in Boston, MA.
 
 My passion lies in Computer Science, and I have a strong interest in software development, backend web development, cloud computing, and artificial intelligence.
-I’m always learning and building new things—focused.
+I’m always learning and building new things.
 
 ---
 
