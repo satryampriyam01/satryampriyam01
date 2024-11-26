@@ -7,7 +7,6 @@ I’m always learning and building new things—focused.
 
 ---
 
-
 ## 🧑‍💻 My Technical Toolbox
 I work with an array of tools and languages, adding to my skillset every day:
 
@@ -48,8 +47,6 @@ Here are a few of my top repositories showcasing my experience across projects:
 <!--
 [![Satyam's Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=satyampriyam&theme=radical&hide_border=true)](https://wakatime.com/@username)
 -->
-
----
 
 <!--## 🤖 GitHub Action for Dynamic Updates
 Want to keep this README up-to-date automatically? Use the following GitHub Actions workflow to fetch repositories and language usage data daily:
