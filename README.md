@@ -43,7 +43,7 @@ Here are a few of my top repositories showcasing my experience across projects:
 -->
 ---
 
-## ⏰ Weekly Coding Stats
+<!--## ⏰ Weekly Coding Stats-->
 <!-- This section will auto-update to show hours spent on various programming languages over the past week. -->
 <!-- WakaTime Setup Required -->
 <!--
