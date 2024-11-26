@@ -29,7 +29,7 @@ I work with an array of tools and languages, adding to my skillset every day:
 Here are a few of my top repositories showcasing my experience across projects:
 
 1. **[Imager](https://github.com/satryampriyam01/snap)** - MVC-based project with GUI on **image processing** with transformations and filters.
-2. **[Atom to Byte](https://github.com/satryampriyam01/atom-to-byte)** - Social initiative converting physical resources into digital formats for village children.
+2. **[Atom to Byte](https://atomtobyte.netlify.app/about)** - Social initiative converting physical resources into digital formats for village children.
 3. **[SplitExpense](https://github.com/satryampriyam01/splitExpense)** - Algorithmic project for spilting Expense among friends and families **MongoDB** and **Java**.
 
 **Languages Used Across Repos**:  
