@@ -51,7 +51,7 @@ Here are a few of my top repositories showcasing my experience across projects:
 
 ---
 
-## 🤖 GitHub Action for Dynamic Updates
+<!--## 🤖 GitHub Action for Dynamic Updates
 Want to keep this README up-to-date automatically? Use the following GitHub Actions workflow to fetch repositories and language usage data daily:
 
 ```yaml
@@ -81,3 +81,4 @@ jobs:
           git add README.md
           git commit -m "Update README with new repo data"
           git push
+-->
