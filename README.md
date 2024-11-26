@@ -1,6 +1,8 @@
 # 👋 Hi! I'm Satyam Priyam!
 
-🔍 Exploring the world of **Fintech, Consulting,** and **Banking** as a passionate software engineer and a graduate student in **Computer Science** at **Northeastern University**. 
+🔍 Exploring the world of **Fintech, Consulting,** and **Banking** as a passionate software engineer and
+
+I am currently a graduate student pursuing a Master of Science (MS) in  **Computer Science** with a specialization in Artificial Intelligence at **Northeastern University** in Boston, MA.
 
 My passion lies in Computer Science, and I have a strong interest in software development, backend web development, cloud computing, and artificial intelligence.
 I’m always learning and building new things—focused.
