@@ -33,7 +33,7 @@ Here are a few of my top repositories showcasing my experience across projects:
 
 **Languages Used Across Repos**:  
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyampriyam&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satryampriyam01&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
