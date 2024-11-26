@@ -38,7 +38,7 @@ Here are a few of my top repositories showcasing my experience across projects:
 ---
 
 ## 📊 Dynamic GitHub Stats
-[![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyampriyam&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satryampriyam01&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
