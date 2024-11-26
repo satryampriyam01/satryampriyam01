@@ -9,10 +9,7 @@
 I work with an array of tools and languages, adding to my skillset every day:
 
 
-![Java](https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)  
+![Java](https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)  
 ![React](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-brightgreen?style=for-the-badge&logo=vuejs&logoColor=white)  
