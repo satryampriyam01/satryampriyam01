@@ -9,15 +9,11 @@
 I work with an array of tools and languages, adding to my skillset every day:
 
 
-![Java](https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)  
-![React](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Framework-Vue.js-brightgreen?style=for-the-badge&logo=vuejs&logoColor=white)  
-![MySQL](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue?style=for-the-badge&logo=sqlite&logoColor=white)  
-![OracleDB](https://img.shields.io/badge/Database-Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)  
+![Java](https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)  
+
+![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)  ![React](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white)  ![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-brightgreen?style=for-the-badge&logo=vuejs&logoColor=white)  
+
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue?style=for-the-badge&logo=sqlite&logoColor=white)  ![OracleDB](https://img.shields.io/badge/Database-Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)  
 ![Elasticsearch](https://img.shields.io/badge/Search-Elasticsearch-yellow?style=for-the-badge&logo=elasticsearch&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Cache-Redis-red?style=for-the-badge&logo=redis&logoColor=white)  
 ![Kafka](https://img.shields.io/badge/Tools-Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white)  
