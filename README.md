@@ -4,8 +4,6 @@
 
 ---
 
-## 🔥 GitHub Activity Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=satyampriyam&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 🧑‍💻 My Technical Toolbox
 I work with an array of tools and languages, adding to my skillset every day:
