@@ -8,7 +8,6 @@ My passion lies in Computer Science, and I have a strong interest in software de
 I’m always learning and building new things.
 
 ---
-
 ## 🧑‍💻 My Technical Toolbox
 I work with an array of tools and languages, adding to my skillset every day:
 
